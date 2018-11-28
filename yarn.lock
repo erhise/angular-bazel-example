@@ -112,10 +112,10 @@
   resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.3.1.tgz#5f02f208f138e581bbdb1534d5c013d7a0ac9799"
   integrity sha1-XwLyCPE45YG72xU01cAT16Csl5k=
 
-"@bazel/ibazel@0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.5.0.tgz#76f269bd60d866e2aa9e86b25c456d18fee2ef54"
-  integrity sha512-V61k9M/FP9cF8W7xz1y32WsBAqS7GP4Um/SYxV1+lO4y0Zd1dHpYk9i4f6LQuN70JfqBNTq3b5UpyD7DpqUplQ==
+"@bazel/ibazel@0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.8.0.tgz#d832c5d732e4aa687c43d25f1ca35ea8f66f5485"
+  integrity sha512-1CB9yPEi3z+GgYTnHs7fPlMYCHg69uEEiHshkt7SKERXnMSvu+4LoFpsTVLRw+yEENncVUgWAzhlo3zN/LVZrg==
 
 "@bazel/karma@0.20.3":
   version "0.20.3"
